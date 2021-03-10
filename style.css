@@ -1,0 +1,21 @@
+h1 {
+  font-size: 20px;
+}
+
+#shadow {
+  pointer-events: none;
+}
+
+section {
+  width: 50vw;
+  margin-left: 150px;
+}
+
+.showpart {
+  cursor: pointer;
+}
+
+.color_btn {
+  cursor: pointer;
+  stroke: black;
+}
